@@ -133,7 +133,7 @@ Este sistema está diseñado para ser altamente escalable y seguro, adecuándose
 
 ## 🌐 Demo
 
-![Insert gif or link to demo](https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-upsti-authenticator/api-upsti-authenticator.gif)
+![Insert gif or link to demo](https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-upsti-authenticator/api_authenticator.gif)
 
 ## 🚀 Deployment
 

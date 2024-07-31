@@ -149,7 +149,7 @@ A continuación se detallan las versiones del proyecto upsti-lib-common que actu
 
 | Ver. | Soportada     | 
 | ------- | ------------------ |
-| 0.0.1   | :white_check_mark: |
+| 1.9.0   | :white_check_mark: |
 
 
 ## Reporte de Vulnerabilidades

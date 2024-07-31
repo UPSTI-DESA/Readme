@@ -20,5 +20,5 @@
   <a href="https://github.com/UPSTI-DESA/Readme/blob/main/upsti-lib-common.md">
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/upsti-lib-common/upsti_lib_common.png?raw=true" alt="Logo" style="width:100%;">
 <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Api-transporte.md">
-<img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/uapi-transporte/transporte.png?raw=true" alt="Logo" style="width:100%;">
+<img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-transporte/transporte.png?raw=true" alt="Logo" style="width:100%;">
 

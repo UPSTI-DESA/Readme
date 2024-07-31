@@ -17,3 +17,5 @@
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/web_asistencia_policia/asistencia_policia.png?raw=true" alt="Logo" style="width:100%;">
   <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Web%20REFSA%20Sistema%20de%20Tickets.md">
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/web_refsa/refsa.png?raw=true" alt="Logo" style="width:100%;">
+  <a href="https://github.com/UPSTI-DESA/Readme/blob/main/upsti-lib-common.md">
+<img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/upsti-lib-common/upsti_lib_common.png?raw=true" alt="Logo" style="width:100%;">

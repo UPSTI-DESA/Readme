@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <th>api Microservicio consultas-gobierno</th>
-    <th>QA api Microservicio consultas-gobierno</th>
+    <th>api Microservicio Derechos Humanos</th>
+    <th>QA api Microservicio Derechos Humanos</th>
   </tr>
   <tr>
     <td>

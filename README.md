@@ -43,6 +43,8 @@
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-embargos/api-embargos.png?raw=true" alt="Logo" style="width:100%;">
   <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Api%20-template.md">
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-template/api-template.png?raw=true" alt="Logo" style="width:100%;">
+  <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Web%20asistencia.md">
+<img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/web-asistencia/web-asistencia.png?raw=true" alt="Logo" style="width:100%;">
 
 
 

@@ -47,6 +47,8 @@
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/web-asistencia/web-asistencia.png?raw=true" alt="Logo" style="width:100%;">
   <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Api%20asistencia.md">
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-asistencia/api-asistencia.png?raw=true" alt="Logo" style="width:100%;">
+  <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Web%20Plan%20estrategico.md">
+<img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/web-planestrategico/web-planestrategico.png?raw=true" alt="Logo" style="width:100%;">
 
 
 

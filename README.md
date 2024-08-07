@@ -53,6 +53,8 @@
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-planestrategico/api-planestrategico.png?raw=true" alt="Logo" style="width:100%;">
   <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Web%20Rapidatos.md">
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/web-rapidatos/web-rapidatos.png?raw=true" alt="Logo" style="width:100%;">
+  <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Api%20-%20Rapidatos.md">
+<img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-rapidatos/api-rapidatos.png?raw=true" alt="Logo" style="width:100%;">
 
 
 

@@ -59,6 +59,9 @@
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-firmadigital/api-firmadigital.png?raw=true" alt="Logo" style="width:100%;">
   <a href="https://github.com/UPSTI-DESA/Readme/blob/main/Api%20Mi%20Portal.md">
 <img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/api-miportal/api-miportal.png?raw=true" alt="Logo" style="width:100%;">
+  <a href="https://github.com/UPSTI-DESA/Readme/blob/main/APP%20Escaner%20de%20Certificados%20con%20QR.md">
+<img src="https://github.com/UPSTI-DESA/imagenes_readme/blob/main/app-qrcode-scanner-certificate/app-qrcode-scanner-certificate.png?raw=true" alt="Logo" style="width:100%;">
+
 
 
 
